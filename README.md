@@ -1,7 +1,15 @@
+## Work log
+
+|                     Title                     |                        Code and Files                        |         Status          |    Date    |
+| :-------------------------------------------: | :----------------------------------------------------------: | :---------------------: | :--------: |
+|          **ch2**          | 初识 SLAM | :ballot_box_with_check: | 23.05.2022 |
+
 ## Slambook2
+
 ![titlepage](./figures/title.png)
 
-Welcome to Slambook 2nd Edition! This is the codebase of our book. Here are some relavant links if you need them: 
+Welcome to Slambook 2nd Edition! This is the codebase of our book. Here are some relavant links if you need them:
+
 - [Our book at jd.com](https://item.jd.com/12666058.html)
 - [Our book at douban.com](https://book.douban.com/subject/27028215/) (I'll be happy to get a score at douban)
 - [code of slambook version 1](https://github.com/gaoxiang12/slambook)
@@ -16,8 +24,11 @@ Hope you like this book.
 BaiduYun backup link in case your github is very slow (common in China): [here](https://pan.baidu.com/s/1XQwpnDb3BOvxXZhL-03p3w)
 
 ---
+
 ## 视觉SLAM十四讲：从理论到实践 第二版
+
 欢迎来到视觉SLAM十四讲：从理论到实践。这里存放本书对应的代码文件。以下是一些可能对你有用的链接：
+
 - [京东书籍链接](https://item.jd.com/12666058.html)
 - [第一版书代码](https://github.com/gaoxiang12/slambook)
 - [英文版代码](https://github.com/gaoxiang12/slambook-en) (正在翻译中)
