@@ -4,8 +4,9 @@
 | :-------------------------------------------: | :----------------------------------------------------------: | :---------------------: | :--------: |
 |          **ch2**          | 初识 SLAM | :ballot_box_with_check: | 23.05.2022 |
 |          **ch3**          | 三维空间刚体运动 | :ballot_box_with_check: | 26.05.2022 |
-|          **ch4**          | lie groups and lie algebras | ：ballot_box_with_check: | 28.05.2022 |
-|          **ch5**          | camera and image | :construction: | - |
+|          **ch4**          | lie groups and lie algebras | :ballot_box_with_check: | 28.05.2022 |
+|          **ch5**          | camera and image | :ballot_box_with_check: | 29.05.2022 |
+|          **ch6**          | nonlinear optimization | :construction: | - |
 
 ## Slambook2
 
