@@ -25,3 +25,6 @@ target_link_libraries(pose_est_2d2d ${OpenCV_LIBS})
 
 add_executable(triangluation triangluation.cpp)
 target_link_libraries(triangluation ${OpenCV_LIBS})
+
+add_executable(pose_estimation_3d2d pose_estimation_3d2d.cpp)
+target_link_libraries(pose_estimation_3d2d g2o_core g2o_stuff Sophus::Sophus ${OpenCV_LIBS})

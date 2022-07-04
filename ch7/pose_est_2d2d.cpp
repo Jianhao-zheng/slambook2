@@ -18,9 +18,8 @@ Point2d pixel2cam(const Point2d &p, const Mat &K);
 int main(int argc, char **argv) {
   // Load image
   if (argc != 3) {
-    cout
-        << " wrong number of input, correct usage: feature_extraction img1 img2"
-        << endl;
+    cout << " wrong number of input, correct usage: pose_est_2d2d img1 img2"
+         << endl;
     return 1;
   }
   Mat img_1 = imread(argv[1], CV_LOAD_IMAGE_COLOR);
