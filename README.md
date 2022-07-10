@@ -10,7 +10,8 @@
 |*** | prepare for exam, pause for some time | *** | *** |
 |          **ch7**          | visual odometry 1 | :ballot_box_with_check: | 06.07.2022 |
 |          **ch8**          | visual odometry 2 | :ballot_box_with_check: | 07.07.2022 |
-|          **ch9**          | back end 2 | :construction: | --- |
+|          **ch9**          | back end 1 | :ballot_box_with_check: | 10.07.2022 |
+|          **ch10**          | back end 2 | :construction: | --- |
 
 ## Slambook2
 
