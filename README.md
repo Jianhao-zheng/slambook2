@@ -13,7 +13,8 @@
 |          **ch9**          | back end 1 | :ballot_box_with_check: | 10.07.2022 |
 |          **ch10**          | back end 2 | :ballot_box_with_check: | 14.07.2022 |
 |          **ch11**          | loop closure | :ballot_box_with_check: | 17.07.2022 |
-|          **ch12**          | mapping | :construction: | --- |
+|          **ch12**          | mapping | :ballot_box_with_check: | 22.07.2022 |
+|          **ch13**          | Design a SLAM system | :construction: | --- |
 
 ## Slambook2
 
